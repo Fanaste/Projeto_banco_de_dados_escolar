@@ -55,4 +55,4 @@ SELECT * FROM alunos ORDER BY nome_do_aluno ASC;
 
 ## 👩‍💻 Projeto realizado por Stefany Batista  
 📅 Ano: 2025  
-🔗 [LinkedIn](https://www.linkedin.com/in/stefanybrauns) 💼#
+🔗 [LinkedIn](https://www.linkedin.com/in/stefanybrauns) 💼
