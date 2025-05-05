@@ -1,0 +1,5 @@
+# Não contar arquivos Markdown como código na linguagem principal
+*.md linguist-documentation
+
+# Garantir que arquivos .sql sejam reconhecidos como SQL
+*.sql linguist-language=SQL
